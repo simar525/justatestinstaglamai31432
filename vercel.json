@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ad2e502a-1e91-45e4-9dd3-4c3ab1a2c2ac.weweb-preview.io/$1"
+ }
+  ]
+}
